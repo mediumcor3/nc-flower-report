@@ -1,17 +1,12 @@
 site_name: NC Flower Report
-site_description: Tracking THCA flower pricing and value across North Carolina
 
 theme:
   name: material
   palette:
     scheme: slate
+
 docs_dir: docs
+
 nav:
   - Guide: index.md
   - Pricing: best-thca-prices-per-gram.md
-
-markdown_extensions:
-  - admonition
-  - tables
-  - toc:
-      permalink: true
