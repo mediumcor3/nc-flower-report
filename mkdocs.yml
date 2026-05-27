@@ -1,6 +1,5 @@
 site_name: NC Flower Report
-site_description: Tracking THCA flower pricing and value across North Carolina.
-site_url: https://mediumcor3.github.io/nc-flower-report/
+site_description: Tracking THCA flower pricing and value across North Carolina
 
 theme:
   name: material
