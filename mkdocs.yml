@@ -5,9 +5,10 @@ theme:
   name: material
   palette:
     scheme: slate
-
+docs_dir: docs
 nav:
   - Guide: index.md
+  - Pricing: best-thca-prices-per-gram.md
 
 markdown_extensions:
   - admonition
